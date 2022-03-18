@@ -17,16 +17,16 @@ function (person, petName){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input                  | Output |
+| -----                  | ------ |
+|  Brad, Banjo           | Dog    | 
+|  Tiffany, Elsa         | Dog    | 
+|                        |        | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>The function takes a person's name and a pet name and looks  for the Person's dogs to see if they have a dog and if  that persons dog name matches the pet name given it returns dog. </td>
   </tr>
 </table>
 
